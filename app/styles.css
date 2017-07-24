@@ -1,0 +1,8 @@
+slide, slide-container {
+    display: block;
+    width: 100%;
+}
+
+.red {
+    color: red;
+}
