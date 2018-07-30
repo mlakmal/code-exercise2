@@ -9,8 +9,15 @@ System.config({
   map: {
     'exercise-app': "./",
     'unit-test': './',
-    '@angular': 'https://unpkg.com/@angular',
-    'zone-js': 'https://unpkg.com/zone.js@0.8.10',
+    '@angular/core': 'https://unpkg.com/@angular/core@5.1.0',
+    '@angular/platform-browser-dynamic': 'https://unpkg.com/@angular/platform-browser-dynamic@5.1.0',
+    '@angular/common': 'https://unpkg.com/@angular/common@5.1.0',
+    '@angular/compiler': 'https://unpkg.com/@angular/compiler@5.1.0',
+    '@angular/forms': 'https://unpkg.com/@angular/forms@5.1.0',
+    '@angular/http': 'https://unpkg.com/@angular/http@5.1.0',
+    '@angular/platform-browser': 'https://unpkg.com/@angular/platform-browser@5.1.0',
+    '@angular/router': 'https://unpkg.com/@angular/router@5.1.0',
+    '@angular/http': 'https://unpkg.com/@angular/http@5.1.0',
     'rxjs': 'https://unpkg.com/rxjs@5.4.0'
   },
   //packages defines our app package
